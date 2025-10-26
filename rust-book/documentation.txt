@@ -3,5 +3,5 @@
 https://doc.rust-lang.org/book/
 
 /* Stopped Chapter */
-https://doc-rust--lang-org.translate.goog/stable/book/ch01-03-hello-cargo.html?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp
-+ Construindo para a Libertação +
+https://doc.rust-lang.org/stable/book/ch21-02-multithreaded.html
++ Validando o número de threads em new +
