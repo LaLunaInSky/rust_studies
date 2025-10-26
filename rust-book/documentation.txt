@@ -1,0 +1,11 @@
+ /*************************/
+/* Documentation Website */
+https://doc.rust-lang.org/book/
+
+/* Stopped Chapter */
+https://doc-rust--lang-org.translate.goog/stable/book/ch00-00-introduction.html?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp
++  +
+
+/* Stopped Subchapter */
+
++  +
