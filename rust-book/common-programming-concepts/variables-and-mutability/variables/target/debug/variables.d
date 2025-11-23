@@ -1,0 +1,1 @@
+/home/luna/Documents/Respositories/Studies/rust_studies/rust-book/common-programming-concepts/variables-and-mutability/variables/target/debug/variables: /home/luna/Documents/Respositories/Studies/rust_studies/rust-book/common-programming-concepts/variables-and-mutability/variables/src/main.rs
