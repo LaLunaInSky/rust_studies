@@ -1,7 +1,18 @@
- /*************************/
-/* Documentation Website */
+/*************************\
+\* Documentation Website */
 https://doc.rust-lang.org/book/
 
-/* Stopped Chapter */
+/************************\
+\* Stopped Chapter - 01 */
+ https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html
+ +  + 
+
+ /* Stopped SubChapter */
+ https://doc.rust-lang.org/book/ch03-05-control-flow.html
+ + Resumo +
+  +  +
+
+/************************\
+\* Stopped Chapter - 02 */
 https://doc.rust-lang.org/stable/book/ch21-02-multithreaded.html
 + Validando o número de threads em new +
