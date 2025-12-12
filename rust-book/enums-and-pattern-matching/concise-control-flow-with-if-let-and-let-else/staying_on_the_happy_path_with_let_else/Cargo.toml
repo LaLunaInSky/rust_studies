@@ -1,0 +1,6 @@
+[package]
+name = "staying_on_the_happy_path_with_let_else"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
