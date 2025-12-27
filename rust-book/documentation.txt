@@ -4,12 +4,12 @@ https://doc.rust-lang.org/book/
 
 /************************\
 \* Stopped Chapter - 01 */
- https://doc.rust-lang.org/book/ch06-00-enums.html
+ https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html
  +  + 
 
  /* Stopped SubChapter */
- https://doc.rust-lang.org/book/ch06-03-if-let.html
- + Resumo +
+ https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html
+ + Reexportando Nomes com pub use +
   +  +
 
 /************************\

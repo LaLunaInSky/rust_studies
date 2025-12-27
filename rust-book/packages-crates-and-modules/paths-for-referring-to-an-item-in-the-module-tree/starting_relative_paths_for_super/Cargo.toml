@@ -1,0 +1,6 @@
+[package]
+name = "starting_relative_paths_for_super"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
