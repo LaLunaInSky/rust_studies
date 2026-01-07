@@ -1,0 +1,6 @@
+[package]
+name = "updating_a_value_based_on_the_old_value"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

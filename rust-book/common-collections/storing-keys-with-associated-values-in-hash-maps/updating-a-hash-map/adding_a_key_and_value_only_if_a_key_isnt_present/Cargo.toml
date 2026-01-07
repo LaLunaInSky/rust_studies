@@ -1,0 +1,6 @@
+[package]
+name = "adding_a_key_and_value_only_if_a_key_isnt_present"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
