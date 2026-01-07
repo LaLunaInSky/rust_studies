@@ -1,0 +1,6 @@
+[package]
+name = "appending_with_push_str_or_push"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

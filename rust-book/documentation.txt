@@ -4,15 +4,15 @@ https://doc.rust-lang.org/book/
 
 /************************\
 \* Stopped Chapter - 01 */
- https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html
- +  + 
+ https://doc.rust-lang.org/book/ch08-00-common-collections.html
+ /+  +\
 
- /* Stopped SubChapter */
- https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html
- + Reexportando Nomes com pub use +
-  +  +
+ \* Stopped SubChapter */
+ https://doc.rust-lang.org/book/ch08-03-hash-maps.html
+ /+ Resumo +\
+ \+  +/
 
 /************************\
 \* Stopped Chapter - 02 */
-https://doc.rust-lang.org/stable/book/ch21-02-multithreaded.html
-+ Validando o número de threads em new +
+ https://doc.rust-lang.org/stable/book/ch21-02-multithreaded.html
+/+ Validando o número de threads em new +\
