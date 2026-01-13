@@ -4,11 +4,11 @@ https://doc.rust-lang.org/book/
 
 /************************\
 \* Stopped Chapter - 01 */
- https://doc.rust-lang.org/book/ch08-00-common-collections.html
- /+  +\
+ https://doc.rust-lang.org/book/ch09-00-error-handling.html
+ /+ Manipulação de erros +\
 
  \* Stopped SubChapter */
- https://doc.rust-lang.org/book/ch08-03-hash-maps.html
+ https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html
  /+ Resumo +\
  \+  +/
 
