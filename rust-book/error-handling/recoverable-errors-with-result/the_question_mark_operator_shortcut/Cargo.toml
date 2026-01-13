@@ -1,0 +1,6 @@
+[package]
+name = "the_question_mark_operator_shortcut"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
