@@ -4,12 +4,12 @@ https://doc.rust-lang.org/book/
 
 /************************\
 \* Stopped Chapter - 01 */
- https://doc.rust-lang.org/book/ch09-00-error-handling.html
- /+ Manipulação de erros +\
+ https://doc.rust-lang.org/book/ch10-00-generics.html
+ /+  +\
 
  \* Stopped SubChapter */
- https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html
- /+ Resumo +\
+ https://doc.rust-lang.org/book/ch10-02-traits.html
+ /+ Usando Implementações Padrão +\
  \+  +/
 
 /************************\
