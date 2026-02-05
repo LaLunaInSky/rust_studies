@@ -1,0 +1,6 @@
+[package]
+name = "testing_equality_with_assert_eq_macro_and_assert_ne_macro"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
