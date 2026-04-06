@@ -4,13 +4,13 @@ https://doc.rust-lang.org/book/
 
 /************************\
 \* Stopped Chapter - 01 */
- https://doc.rust-lang.org/book/ch12-00-an-io-project.html
+ https://doc.rust-lang.org/book/ch13-00-functional-features.html
  /+  +\
 
  \* Stopped SubChapter */
- https://doc.rust-lang.org/book/ch12-06-writing-to-stderr-instead-of-stdout.html
- /+ Resumo +\
- \+  +/
+ https://doc.rust-lang.org/book/ch13-01-closures.html
+ /+ Fechamentos +\
+ \+ Inferindo e anotando tipos de fechamento +/
 
 /************************\
 \* Stopped Chapter - 02 */
