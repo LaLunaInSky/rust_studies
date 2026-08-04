@@ -10,11 +10,10 @@ impl Solution {
         
         let mut left_point: usize = 0;
         let mut right_point:usize = height_len - 1;
+        let mut height_to_calculate: i32;
 
         while left_point < right_point {
             let base = right_point - left_point;
-
-            let mut height_to_calculate = 0;
 
             if height[left_point] < height[right_point] {
                 height_to_calculate = height[left_point];
@@ -34,6 +33,7 @@ impl Solution {
                 right_point -= 1;
             }
         }
-        return largest_area_found;
+
+        largest_area_found
     }
 }
