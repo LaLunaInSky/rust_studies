@@ -6,43 +6,50 @@ impl Solution {
     ) -> Vec<Vec<i32>> {
         let mut result: Vec<Vec<i32>> = Vec::new();
 
-        let mut first_index: usize = 0;
-        let mut second_index: usize = 1;
-        let mut third_index: usize = 2;
-
-        while first_index < nums.len() - 2 {
-            while second_index < nums.len() - 1 {
-                while third_index < nums.len() {
-                    let sum = nums[first_index] + nums[second_index] + nums[third_index];
+        let mut nums = nums;
         
-                    if sum == 0 {
-                        let mut nums_to_add: Vec<i32> = vec!(
-                            nums[first_index], nums[second_index], nums[third_index]
-                        ); 
+        nums.sort();
 
-                        nums_to_add.sort();
-                        
-                        if result.contains(&nums_to_add) == false {
-                            result.push(
-                                nums_to_add
-                            );
-                        }
+        let len_nums = nums.len();
 
-                    }
-    
-                    third_index += 1;
-                }
+        for first_index in 0..len_nums {
+            let first_num = nums[first_index];
 
-                second_index += 1;
-                third_index = second_index + 1;    
+            if first_num > 0 {
+                break;
             }
 
-            first_index += 1;
-            second_index = first_index + 1;
-            third_index = second_index + 1;
-        }
+            let (
+                mut left_index,
+                mut right_index
+            ) = (
+                first_index + 1,
+                len_nums - 1
+            );
 
-        result.sort();
+            while left_index < right_index {   
+                let sum = first_num + nums[left_index] + nums[right_index];
+
+                if sum == 0 {
+                    let vec_sum: Vec<i32> = vec!(
+                        first_num, 
+                        nums[left_index],
+                        nums[right_index]
+                    );
+
+                    if !result.contains(&vec_sum) {
+                        result.push(vec_sum);
+                    }
+
+                    left_index += 1;
+                    right_index -= 1;
+                } else if sum > 0 {
+                    right_index -= 1;
+                } else {
+                    left_index += 1;
+                }
+            }
+        }
 
         result
     }
