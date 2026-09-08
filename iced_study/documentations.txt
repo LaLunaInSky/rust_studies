@@ -2,4 +2,4 @@
 https://book.iced.rs/index.html
 
 /* Stopped (translate pt-br) */
-https://book-iced-rs.translate.goog/philosophy.html?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp
+https://book-iced-rs.translate.goog/first-steps.html?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp
